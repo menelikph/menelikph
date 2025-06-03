@@ -7,7 +7,7 @@
 
 ## 🌟 About Me
 
-Hello! 👋 I'm **Menelik Puerta Herrera**, a passionate software development student from **Medellín, Colombia 🇨🇴**. I'm currently studying at **[Riwi Medellín](https://riwi.io)**, diving deep into the world of programming.
+Hello! 👋 I'm **Menelik Puerta Herrera **, a passionate software development student from **Medellín, Colombia 🇨🇴**. I'm currently studying at **[Riwi Medellín](https://riwi.io)**, diving deep into the world of programming.
 
 - 🧑‍💻 I’m very interested in **Frontend Development**
 - 📚 I love learning by building real projects
