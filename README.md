@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&pause=1000&color=00CFFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Menelik+Puerta+Herrera;Frontend+Enthusiast+💻;From+Colombia+🇨🇴;Welcome+to+my+GitHub+Profile!">
 </p>
----
 
 ## 👨💻 About Me
 
