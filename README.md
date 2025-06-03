@@ -1,9 +1,5 @@
 <!-- Banner animado con celeste -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&pause=1000&color=00CFFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Menelik+Puerta+Herrera;Frontend+Explorer+from+Colombia!;Learning+to+build+beautiful+UIs;With+HTML+%2B+CSS+%2B+JS+💙" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&pause=1000&color=00CFFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Menelik+Puerta+Herrera;Frontend+Enthusiast+💻;From+Colombia+🇨🇴;Welcome+to+my+GitHub+Profile!">
 </p>
 ---
