@@ -14,6 +14,10 @@ Hi there! 👋 I'm **Menelik Puerta Herrera**, a Colombian frontend enthusiast c
 - 🐶 My best coding buddy is my dog, **Merry**!  
 - 🎸 In my free time I play guitar, draw, and read 📚
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/02/c9/38/02c9380ff2e9d8c384fdbb0066c2e08d.gif">
+</p>
+
 ---
 
 ## 🎓 My Journey So Far
